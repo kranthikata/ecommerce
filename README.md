@@ -38,7 +38,7 @@ This is a full-fledged e-commerce web application where users can browse product
 
 3. Create .env file with data like:
 
-   ```json
+   ```bash
    PORT=5000
    JWT_SECRET=<Your_own_secret>
    MONGODB_URI=<Your_mongodb_uri>
